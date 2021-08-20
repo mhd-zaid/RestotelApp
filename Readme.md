@@ -10,7 +10,7 @@ J'ai voulu créer cette fonctionnalité car cela rendait le processus plus concr
 ### Schéma de l'application
 
 
-![Schema](https://ibb.co/3dDyBGD)
+[Schema](https://ibb.co/3dDyBGD)
 
 ### Quick start 
 
